@@ -1,0 +1,55 @@
+{
+  "version": 2,
+  "dgSpecHash": "vxJ04jqJ/84uzsCnZnDBKdkbz7cKghHAWgSf7UgTpoE7i81KKizR0K46TpinPnH/rVzDSSKU7Y5iNmIegWKzIw==",
+  "success": true,
+  "projectFilePath": "/home/bruno/Prova/respostas/exercicio3/backend/backend.csproj",
+  "expectedPackageFiles": [
+    "/home/bruno/.nuget/packages/bouncycastle/1.8.9/bouncycastle.1.8.9.nupkg.sha512",
+    "/home/bruno/.nuget/packages/itextsharp/5.5.13.3/itextsharp.5.5.13.3.nupkg.sha512",
+    "/home/bruno/.nuget/packages/microsoft.aspnetcore.cors/2.2.0/microsoft.aspnetcore.cors.2.2.0.nupkg.sha512",
+    "/home/bruno/.nuget/packages/microsoft.aspnetcore.http.abstractions/2.2.0/microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "/home/bruno/.nuget/packages/microsoft.aspnetcore.http.extensions/2.2.0/microsoft.aspnetcore.http.extensions.2.2.0.nupkg.sha512",
+    "/home/bruno/.nuget/packages/microsoft.aspnetcore.http.features/2.2.0/microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "/home/bruno/.nuget/packages/microsoft.aspnetcore.openapi/7.0.12/microsoft.aspnetcore.openapi.7.0.12.nupkg.sha512",
+    "/home/bruno/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/bruno/.nuget/packages/microsoft.extensions.configuration.abstractions/2.2.0/microsoft.extensions.configuration.abstractions.2.2.0.nupkg.sha512",
+    "/home/bruno/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/2.2.0/microsoft.extensions.dependencyinjection.abstractions.2.2.0.nupkg.sha512",
+    "/home/bruno/.nuget/packages/microsoft.extensions.fileproviders.abstractions/2.2.0/microsoft.extensions.fileproviders.abstractions.2.2.0.nupkg.sha512",
+    "/home/bruno/.nuget/packages/microsoft.extensions.logging.abstractions/2.2.0/microsoft.extensions.logging.abstractions.2.2.0.nupkg.sha512",
+    "/home/bruno/.nuget/packages/microsoft.extensions.options/2.2.0/microsoft.extensions.options.2.2.0.nupkg.sha512",
+    "/home/bruno/.nuget/packages/microsoft.extensions.primitives/2.2.0/microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "/home/bruno/.nuget/packages/microsoft.net.http.headers/2.2.0/microsoft.net.http.headers.2.2.0.nupkg.sha512",
+    "/home/bruno/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/home/bruno/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/home/bruno/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/home/bruno/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/home/bruno/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "/home/bruno/.nuget/packages/system.buffers/4.5.0/system.buffers.4.5.0.nupkg.sha512",
+    "/home/bruno/.nuget/packages/system.componentmodel.annotations/4.5.0/system.componentmodel.annotations.4.5.0.nupkg.sha512",
+    "/home/bruno/.nuget/packages/system.memory/4.5.1/system.memory.4.5.1.nupkg.sha512",
+    "/home/bruno/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.1/system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "/home/bruno/.nuget/packages/system.text.encodings.web/4.5.0/system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'BouncyCastle 1.8.9' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "BouncyCastle",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'iTextSharp 5.5.13.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "iTextSharp",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}

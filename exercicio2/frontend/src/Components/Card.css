@@ -1,0 +1,24 @@
+#card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  gap: 10px;
+
+  padding: 30px 40px;
+  margin-right: 20px;
+
+  border: 1px solid black;
+  border-radius: 1.5em;
+}
+
+#card a {
+  cursor: pointer;
+  text-decoration: none;
+  background-color: #ccc;
+  border: 1px solid black;
+  color: black;
+  border-radius: 5px;
+  padding: 10px 5px;
+}
